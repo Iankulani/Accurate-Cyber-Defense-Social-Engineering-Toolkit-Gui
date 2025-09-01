@@ -4,6 +4,11 @@
 
 
 Accurate Cyber Defense Social Engineering Toolkit GUI is an educational cybersecurity application designed to provide hands-on understanding of social engineering threats and their countermeasures.
+Accurate Cyber Defense Phishing Botnet is a sophisticated malicious framework designed to automate large-scale credential harvesting campaigns. 
+It deploys convincing phishing pages that mimic legitimate services to deceive users into entering their sensitive login information. 
+
+The toolkit integrates with Telegram, allowing administrators to receive instant notifications and reports when a simulated phishing or whaling attempt is triggered. 
+This feature ensures trainers can monitor results in real time, analyze responses, and deliver feedback directly within secure communication channels.
 
 
 **How to clone the repository**
